@@ -1,0 +1,6 @@
+{
+  "name": "Sant Singaji Test Paper & PDF Generator Agent",
+  "description": "Official BCA test paper generator and PDF examination publisher for Himanshu Vishwakarma sir at Sant Singaji Institute of Science and Management (SSISM).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
